@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joseachacongtz/LeetCode/tree/master/0001-two-sum) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/joseachacongtz/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joseachacongtz/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joseachacongtz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/joseachacongtz/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
